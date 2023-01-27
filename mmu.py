@@ -25,7 +25,6 @@ class MMU:
 mmu = MMU()
 mmu.adicionar_particao(100, 50) # Usando o método adicionar_particao foi estabelecido o limite de 100 e o numero base a ser convertido de 50.
 mmu.adicionar_particao(200, 150) # Usando o método adicionar_particao foi estabelecido o limite de 200 e o numero base a ser convertido de 150.
-print(mmu.tabela_particao)
 
 
 try: # Código try que vai tentar rodar o código.
